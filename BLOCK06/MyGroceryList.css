@@ -1,0 +1,33 @@
+.FREZZER {
+    background-color: #f7dc6f;
+    border: 1px solid black;
+    padding: 10px;
+  }
+  
+  .DRY GOODS {
+    background-color: #a9df9c;
+    border: 1px solid black;
+    padding: 10px;
+  }
+  
+  .CANNEDGOODS {
+    background-color: #f1948a;
+    border: 1px solid black;
+    padding: 10px;
+  }
+  
+  .photos {
+    background-color: #d7dbdd;
+    border: 1px solid black;
+    padding: 10px;
+  }
+  
+  h2 {
+    background-color: rgb(75, 70, 92);
+    color: #fff;
+    padding: 5px;
+  }
+  
+  .photos {
+    padding: 10px;
+  }
