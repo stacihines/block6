@@ -1,47 +1,43 @@
- .body { font-style:oblique;
-      background-color:(light rgb(200, 255, 0))}
+.FREEZER {
+  background-color: #f7dc6f;
+  margin: 50px;
+  border: 2px solid black;
+  padding: 20px;
+  text-align: left;
+}
 
- .FREZZER {
-    background-color: #f7dc6f;
-    border: 1px solid black;
-    text-align: center;
-  }
-  
-  .DRY GOODS {
-    background-color: #a9df9c;
-    border: 1px solid black;
-    padding: 10px;
-    text-align: end;
-  }
-  
-  .CANNEDGOODS {
-    background-color: #f1948a;
-    border: 1px solid black;
-    padding: 10px;
-    text-align:center
-  }
-  
-  .photos {
-    background-color: #d7dbdd;
-    border: 1px solid rgb(223, 33, 33);
-    height: 50px;
-  }
-  
-  h2 {
-    background-color: rgb(75, 70, 92);
-    color: #fff;
-    
-  }
-  
-  .photos {
-    padding: 100px;
-    margin: 100px;
-    width: 100px;
-    height: 50px;
-  }
+.headerClass {
+  background-color: rgb(123, 192, 129);
+  text-align: center;
 
-  .section {
-    padding: 100px;
-    margin: 100px;
-    width: 100px;
-    height: 50px;}
+}
+
+.DRYGOODS {
+  background-color: #a9df9c;
+  margin: 50px;
+  border: 2px solid black;
+  padding: 20px;
+  text-align: left;
+}
+
+.CANNEDGOODS {
+  background-color: #f1948a;
+  margin: 50px;
+  border: 2px solid black;
+  padding: 20px;
+  text-align: left;
+}
+
+
+.pageheaderclass {
+  color: rgb(123, 192, 129);
+  text-align: center;
+  background-color: black;
+}
+
+.images {
+  border: 2px solid black;
+  padding: 50px;
+  text-align: center;
+  grid-column:left;
+}
